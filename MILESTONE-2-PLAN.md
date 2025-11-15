@@ -1,185 +1,85 @@
-# 💡 IDEA-TON
+## MILESTONE 2 PLAN: [Project Name]
 
-![logo](./images/logo.png)
-
-## Contenido
-- [Project Overview](#project-overview)
-- [Pitch Video]()
-- [Pitch Deck]()
-
-- [Summary](#summary)
-- [Technical Architecture](#technical-architecture)
-- [Endpoints](#endpoints)
-- [Operations](#operations)
-- [Retriable errors](#retriable-errors)
-- [Reference](#reference)
-- [Changelog](#changelog)
-
-## Project Overview
-ObraClara es una plataforma digital diseñada para modernizar la gestión de Órdenes de Servicio (OS) y Notas de Pedido (NP) en obras públicas. 
-
-Hoy estos procesos se realizan con WhatsApp, PDFs dispersos y libros físicos, lo que genera pérdida de trazabilidad, riesgos legales, demoras y una baja transparencia operativa.
-
-La plataforma centraliza el registro, seguimiento y validación de documentos críticos de obra. 
-
-**Integra:**
-- Digitalización automatizada de OS/NP mediante carga de fotos, PDF o texto.
-- Trazabilidad inmutable en blockchain, registrando hashes para garantizar autenticidad y evitar manipulación.
-- Alertas automáticas sobre plazos críticos y vencimientos.
-- Búsquedas inteligentes con IA para encontrar historial, justificar demoras, auditar procesos o generar reportes en segundos.
-- Dashboard unificado para jefes de obra y dueños de constructoras.
-
-ObraClara reduce tiempos operativos, elimina pérdidas de documentación, fortalece la transparencia y genera evidencia legal confiable ante auditorías y organismos públicos. 
-Es una solución escalable para constructoras y municipios, alineada con estándares modernos de gestión pública y privada.
-
-TODO!!
-### [Pitch Video](https://youtu.be/1oGsoYutw24)
-- [ ]  2-3 minute pitch video (uploaded and link provided)
-   - Walkthrough of what you built + your pitch
-   - Include: problem, solution, demo, market context, Milestone 2 overview
-   - Upload to any platform (e.g., YouTube, Loom) and share the link
-
-
-TODO!!
-### [Pitch Deck](https://docs.google.com/presentation/d/1RyJv-ST3eSlvFXZlR7SOaVAwotoWy2GKRQ9r5jj8THw/edit?usp=sharing)
-- [ ]  Pitch deck (URL)
-   - Problem & solution
-   - Market research & competitive analysis
-   - Technical approach
-   - Milestone 2 plan summary
-
-
----
-- [ ]  Public GitHub repository
-    - Open source license
-    - `MILESTONE-2-PLAN.md` using [Milestone 2 Plan Template](https://www.notion.so/Milestone-2-Plan-Template-28b3e52aeb15802d919ffdfe5d4ca5b4?pvs=21)
-    - `README.md`: including setup instructions, link to demo URL (if applicable), link to pitch video, team member names + roles, link to pitch deck
-
-### Bonus Material (to be Included in `README.md`)
-
-- [ ]  Demo video showing prototype/concept (separate from pitch video)
-- [ ]  User feedback or validation evidence (e.g. surveys, results from mini marketing campaign)
-- [ ]  Marketing material or plan (e.g. social media links, online engagement with product)
-
-### 💡 IDEA-TON TECH REQUIREMENTS
-
-- Technical architecture document (detailed plan)
-- Wireframes/mockups showing user flow
-- See: [IDEA-T-ON TECHNICAL PLAN CHECKLIST](https://www.notion.so/IDEA-T-ON-TECHNICAL-PLAN-CHECKLIST-2a43e52aeb1580558beddf44eed73e73?pvs=21)
-
-
-----
-# IDEA-T-ON TECHNICAL PLAN CHECKLIST
-
-## 🏗️ Technical Architecture
-
-### System Diagram
-
-*[Include ONE clear diagram showing how your components connect. Use Mermaid, Excalidraw, or draw on paper and photo it]*
-
-E.g. mermaid :
-
-`graph LR
-    A[Component 1] --> B[Component 2]
-    B --> C[Component 3]`
-
-### Tech Stack
-
-**Frontend:**
-
-- Framework: [e.g., Next.js, React]
-- Web3: [e.g., Polkadot.js, PAPI]
-- UI: [e.g., Tailwind, shadcn]
-
-**Backend/Contracts:**
-
-- Type: [e.g., ink! contract, FRAME pallet, API service]
-- Language: [e.g., Rust, TypeScript]
-- Storage: [e.g., On-chain, IPFS, Arkiv]
-
-**Blockchain:**
-
-- Chain: [e.g., Asset Hub, Custom parachain]
-- Tools: [e.g., SubQuery, Chopsticks]
-
-### How Data Flows
-
-*[Simple step-by-step of a user action through your system]*
-
-1. User does X →
-2. Frontend calls Y →
-3. Blockchain processes Z →
-4. User sees result
+**Team:** _________________  
+**Track:** [ ] SHIP-A-TON [ ] IDEA-TON  
+**Date:** _________________
 
 ---
 
-## 🎨 Design & User Flow
+## 📍 WHERE WE ARE NOW
 
-### Mockups
+**What we built/validated this weekend:**
+- 
+-
+-
 
-**Figma/Design Tool or simple wireframes**
+**What's working:**
+- 
+-
 
-- Link: [Figma or Balsamiq share link or if hand drawn share photo]
-- Key screens: [List 3-5 main screens]
-- Files: [Attach images or links]
+**What still needs work:**
+- 
+-
 
-### Main User Flow
-
-*[Describe the core action step-by-step with 3-5 steps]*
-
-**Example: Minting an NFT**
-
-1. Connect wallet
-2. Upload image + metadata
-3. Set price
-4. Sign transaction
-5. View your listing
-
-*[Include screenshots or sketches for each step]*
+**Blockers or hurdles we hit:**
+- 
+-
 
 ---
 
-## ⚙️ Implementation Plan
+## 🚀 WHAT WE'LL SHIP IN 30 DAYS
 
-### Hackathon Weekend (Nov 14-16)
+**Our MVP will do this:**
+[2-3 sentences: what it does and for whom]
 
-*[What you'll build in 72 hours - be realistic]*
+### Features We'll Build (3-5 max)
 
-- [ ]  [Task 1 - e.g., Deploy smart contract to testnet]
-- [ ]  [Task 2 - e.g., Build basic UI with wallet connection]
-- [ ]  [Task 3 - e.g., Connect frontend to contract]
-- [ ]  [Task 4 - e.g., Record demo video]
+**Week 1-2:**
+- Feature:
+- Why it matters:
+- Who builds it: [Name]
 
-**Weekend deliverable:** [e.g., Working prototype on Paseo testnet]
+**Week 2-3:**
+- Feature:
+- Why it matters:
+- Who builds it: [Name]
 
-### Milestone 2 - 6 Weeks (Nov 18 - Dec 24)
+**Week 3-4:**
+- Feature:
+- Why it matters:
+- Who builds it: [Name]
 
-*[Required for Main Track prize consideration - outline your post-hackathon plan]*
+*(Add more if needed, max 5 total)*
 
-**Weeks 1-2:** [e.g., Add feature X, optimize contract]
+### Team Breakdown (if applicable)
 
-**Weeks 3-4:** [e.g., Integrate partner bounty tech, user testing]
+**[Name] - [Role]** | [X hrs/week]
+- Owns:
 
-**Weeks 5-6:** [e.g., Mainnet deployment prep, documentation]
+**[Name] - [Role]** | [X hrs/week]
+- Owns:
 
-**M2 Deliverable:** [e.g., Mainnet-ready product with 10 test users]
+**[Name] - [Role]** | [X hrs/week]
+- Owns:
+
+### Mentoring & Expertise We Need
+
+**Areas where we need support:**
+- 
+-
+
+**Specific expertise we're looking for:**
+- 
+-
 
 ---
 
-## 🔍 Technical Feasibility
+## 🎯 WHAT HAPPENS AFTER
 
-**Why this will work:**
+**When M2 is done, we plan to...**
+- 
+-
 
-- ✅ [e.g., We have Rust/FRAME experience]
-- ✅ [e.g., Libraries exist for core features]
-- ✅ [e.g., Similar projects prove it's possible]
-
-**Biggest challenges:**
-
-1. **[Challenge]** → *Solution: [How you'll handle it]*
-2. **[Challenge]** → *Solution: [How you'll handle it]*
-
-**Key dependencies:**
-
-- [e.g., Asset Hub pallet availability]
-- [e.g., Testnet RPC access]
+**And 6 months out we see our project achieve:**
+- 
+- 
