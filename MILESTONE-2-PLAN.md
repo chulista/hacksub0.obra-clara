@@ -1,8 +1,13 @@
-## MILESTONE 2 PLAN: [Project Name]
+## MILESTONE 2 PLAN: OBRA CLARA
 
-**Team:** _________________  
-**Track:** [ ] SHIP-A-TON [ ] IDEA-TON  
-**Date:** _________________
+**Team:** OBRA CLARA  
+
+**Track:**
+
+    [ ] SHIP-A-TON
+    [X] IDEA-TON  
+
+**Date:** 16/11/2025
 
 ---
 

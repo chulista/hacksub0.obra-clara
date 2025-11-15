@@ -8,12 +8,10 @@
 - [Pitch Video](https://www.youtube.com/watch?v=1oGsoYutw24)
 - [Pitch Deck](https://docs.google.com/presentation/d/1RyJv-ST3eSlvFXZlR7SOaVAwotoWy2GKRQ9r5jj8THw/edit?usp=sharing)
 - [Milestone 2 Plan](MILESTONE-2-PLAN.md)
-- `README.md`: 
-  - including setup instructions, 
-  - link to demo URL (if applicable), 
-  - link to pitch video, 
-  - team member names + roles, 
-  - link to pitch deck
+- [Technical Architecture](#technical-architecture)
+- [Bonus Material](#bonus-material)
+  - [Demo](#demo)
+  - [User Feedback / Validation Evidence](#user-feedback)
   
 ## Descripcion del Projecto
 ObraClara es una plataforma digital diseñada para modernizar la gestión de Órdenes de Servicio (OS) y Notas de Pedido (NP) en obras públicas.
@@ -40,7 +38,7 @@ Es una solución escalable para constructoras y municipios, alineada con estánd
 
 _Experiencia en desarrollo de soluciones tecnológicas, automatización de  procesos, metodologías ágiles, experiencia de usuario y construcción de productos digitales._
 
-- **Rol:** CTO - Diseño de la arquitectura técnica del MVP (integración de bases de datos, IA, notificaciones y blockchain).
+- **Rol:** Diseño de la arquitectura técnica del MVP (integración de bases de datos, IA, notificaciones y blockchain).
 - **Contribución Clave:** implementación técnica, validación de factibilidad y escalabilidad de la solución.
 
 ### Paulo [![LinkedIn](https://img.icons8.com/color/16/linkedin.png) LinkedIn](https://www.linkedin.com/in/paulino-cartagena-10155362/) 
@@ -52,26 +50,23 @@ Conocimiento profundo de los dolores reales en la gestión de órdenes de servic
 - **Rol:** Aportar la visión del usuario final, validar procesos actuales y proponer mejoras realistas.
 - **Contribución Clave:** garantizar que la solución resuelva problemas concretos del día a día en obras públicas y facilitar la adopción con empresas y municipios.
 
-### Analia Cartagena [![LinkedIn](https://img.icons8.com/color/16/linkedin.png) LinkedIn](https://www.linkedin.com/in/analia-cartagena/)
+### Analia [![LinkedIn](https://img.icons8.com/color/16/linkedin.png) LinkedIn](https://www.linkedin.com/in/analia-cartagena/)
 **Co-fundadora · Ingeniería de Software · MBA**
 
 _Lidera la estrategia de innovación y transformación digital.
 Experiencia en gestión de proyectos, metodologías ágiles, experiencia de usuario, construcción de productos digitales._
 
-- **Rol:** COO - asegurar que la solución responda a necesidades reales de usuarios y esté alineada con los objetivos del concurso y de los municipios/constructoras.
+- **Rol:** Asegurar que la solución responda a necesidades reales de usuarios y esté alineada con los objetivos del concurso y de los municipios/constructoras.
 - **Contribución Clave:** coordinación del equipo, diseño de encuestas, análisis de resultados y estrategia de implementación.
-
 
 ---
 ### Pitch Video
-
+TODO!!
 (https://youtu.be/1oGsoYutw24)
 - [ ]  2-3 minute pitch video (uploaded and link provided)
     - Walkthrough of what you built + your pitch
     - Include: problem, solution, demo, market context, Milestone 2 overview
     - Upload to any platform (e.g., YouTube, Loom) and share the link
-
-
 ---
 TODO!!
 ### [Pitch Deck](https://docs.google.com/presentation/d/1RyJv-ST3eSlvFXZlR7SOaVAwotoWy2GKRQ9r5jj8THw/edit?usp=sharing)
@@ -81,12 +76,17 @@ TODO!!
     - Technical approach
     - Milestone 2 plan summary
 
+---
+## Technical Architecture
+
+TODO!!!
 
 ---
-- [ ]  Public GitHub repository
-    - Open source license
-    - `MILESTONE-2-PLAN.md` using [Milestone 2 Plan Template](https://www.notion.so/Milestone-2-Plan-Template-28b3e52aeb15802d919ffdfe5d4ca5b4?pvs=21)
-    - `README.md`: including setup instructions, link to demo URL (if applicable), link to pitch video, team member names + roles, link to pitch deck
+## Bonus Material
+
+### Demo
+
+### User Feedback
 
 ### Bonus Material (to be Included in `README.md`)
 
