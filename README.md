@@ -5,7 +5,6 @@
 ## Table of contents
 - [Project Overview](#project-overview)
 - [Team Members](#team-members)
-- [Pitch Video](https://www.youtube.com/watch?v=1oGsoYutw24)
 - [Pitch Deck](https://docs.google.com/presentation/d/1RyJv-ST3eSlvFXZlR7SOaVAwotoWy2GKRQ9r5jj8THw/edit?usp=sharing)
 - [Milestone 2 Plan](MILESTONE-2-PLAN.md)
 - [Technical Architecture](#technical-architecture)
@@ -59,17 +58,6 @@ _Leads innovation and digital transformation strategy. Experience in project man
 - **Role:** Ensure the solution addresses real user needs and aligns with the goals of the competition and of municipalities/contractors.
 
 - **Key Contribution:** Team coordination, survey design, results analysis, and implementation strategy.
-
----
-### Pitch Video
-TODO!!
-(https://youtu.be/1oGsoYutw24)
-- [ ]  2-3 minute pitch video (uploaded and link provided)
-    - Walkthrough of what you built + your pitch
-    - Include: problem, solution, demo, market context, Milestone 2 overview
-    - Upload to any platform (e.g., YouTube, Loom) and share the link
----
-### [Pitch Deck](https://docs.google.com/presentation/d/1RyJv-ST3eSlvFXZlR7SOaVAwotoWy2GKRQ9r5jj8THw/edit?usp=sharing)
 
 ---
 ## Technical Architecture
