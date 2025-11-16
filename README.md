@@ -115,4 +115,14 @@ TODO!!
 ## Design And User Flow
 ### Mockups
 **Wireframes/mockups showing user flow** 
-Esta seccion muestra el flujo que sigue el usuario al utilizar la plataforma
+
+- 1° Step: New Service Order
+![00_new_service_order](./images/mockups/00_new_service_order.png)
+- 2° Step: Transcribe Service Order Content
+![01_transcribe_service_order](./images/mockups/01_transcribe_service_order.png)
+- 3° Step: Service Order Transcription Successful
+![02_service_order_transcribed](./images/mockups/02_service_order_transcribed.png)
+- 4° Step: Transcribe Service Order Content
+![03_create_service_order](./images/mockups/03_create_service_order.png)
+- 5° Step: Transcribe Service Order Content
+![04_congrats](./images/mockups/04_congrats.png)
