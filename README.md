@@ -16,9 +16,7 @@
   - [Mockups](#mockups)
   - [Main User Flow](#main-user-flow)
 - [Technical Feasibility](#technical-feasibility)
-- [Bonus Material](#bonus-material)
-  - [Demo](#demo)
-  - [User Feedback / Validation Evidence](#user-feedback)
+- [Bonus Material](Bonus_Material.md)
 
 ## **Project Overview**
 ObraClara is a digital platform designed to modernize the management of Service Orders (OS) and Request Notes (NP) in public construction projects.
