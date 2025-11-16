@@ -119,10 +119,3 @@ TODO!!
 ## Mockups showing user flow
 **Wireframes/mockups showing user flow** 
 Esta seccion muestra el flujo que sigue el usuario al utilizar la plataforma
-
----
-## Bonus Material
-
-### Demo
-
-### User Feedback
