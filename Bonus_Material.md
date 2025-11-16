@@ -1,7 +1,8 @@
 ## Bonus Material
 
-### Demo
+### [Demo](https://www.youtube.com/watch?v=00FERndF9Rw) 
 ![how_data_flows](./images/demo.gif)
+[Youtube](https://www.youtube.com/watch?v=00FERndF9Rw)
 
 ### User Feedback
 [Our survey](https://forms.gle/dFsLkgwkfLHNKueSA)
