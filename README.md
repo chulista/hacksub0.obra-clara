@@ -3,61 +3,64 @@
 ![logo](./images/logo.png)
 
 ## Contenido
-- [Project Overview](#descripcion-del-projecto)
-- [Equipo](#equipo)
+- [Project Overview](#project-overview)
+- [Team Members](#team-members)
 - [Pitch Video](https://www.youtube.com/watch?v=1oGsoYutw24)
 - [Pitch Deck](https://docs.google.com/presentation/d/1RyJv-ST3eSlvFXZlR7SOaVAwotoWy2GKRQ9r5jj8THw/edit?usp=sharing)
 - [Milestone 2 Plan](MILESTONE-2-PLAN.md)
 - [Technical Architecture](#technical-architecture)
-- [Bonus Material](#bonus-material)
-  - [Demo](#demo)
-  - [User Feedback / Validation Evidence](#user-feedback)
-  
-## Descripcion del Projecto
-ObraClara es una plataforma digital diseñada para modernizar la gestión de Órdenes de Servicio (OS) y Notas de Pedido (NP) en obras públicas.
+  - [System Diagram](#system-diagram)
+  - [Tech Stack](#tech-stack)
+  - [How Data Flows](#how-data-flows)
+- [Design And User Flow](#design-and-user-flow)
+  - [Mockups](#mockups)
+  - [Main User Flow](#main-user-flow)
+- [Technical Feasibility](#technical-feasibility)
+- [Bonus Material](Bonus_Material.md)
 
-Hoy estos procesos se realizan con WhatsApp, PDFs dispersos y libros físicos, lo que genera pérdida de trazabilidad, riesgos legales, demoras y una baja transparencia operativa.
+## **Project Overview**
+ObraClara is a digital platform designed to modernize the management of Service Orders (OS) and Request Notes (NP) in public construction projects.
 
-La plataforma centraliza el registro, seguimiento y validación de documentos críticos de obra.
+Today, these processes rely on WhatsApp messages, scattered PDFs, and physical logbooks, leading to loss of traceability, legal risks, delays, and low operational transparency.
 
-**Integra:**
-- Digitalización automatizada de OS/NP mediante carga de fotos, PDF o texto.
-- Trazabilidad inmutable en blockchain, registrando hashes para garantizar autenticidad y evitar manipulación.
-- Alertas automáticas sobre plazos críticos y vencimientos.
-- Búsquedas inteligentes con IA para encontrar historial, justificar demoras, auditar procesos o generar reportes en segundos.
-- Dashboard unificado para jefes de obra y dueños de constructoras.
+The platform centralizes the registration, tracking, and validation of critical project documents.
 
-ObraClara reduce tiempos operativos, elimina pérdidas de documentación, fortalece la transparencia y genera evidencia legal confiable ante auditorías y organismos públicos.
-Es una solución escalable para constructoras y municipios, alineada con estándares modernos de gestión pública y privada.
+### It incorporates:
+- Automated digitalization of OS/NP through uploads of photos, PDFs, text, or voice.
+- Immutable blockchain traceability, storing document hashes to guarantee authenticity and prevent tampering.
+- Automated alerts for deadlines and critical response windows.
+- AI-powered search, enabling users to find historical records, justify delays, audit processes, or generate reports in seconds.
+- A unified dashboard for site managers and construction company owners.
+
+ObraClara reduces operational time, eliminates document loss, strengthens transparency, and provides reliable legal evidence for audits and public oversight. It is a scalable solution for construction companies and municipalities, aligned with modern standards of public and private sector management.
 
 ---
-## Equipo
+## Team Members
 
 ### Omar [![LinkedIn](https://img.icons8.com/color/16/linkedin.png) LinkedIn](https://www.linkedin.com/in/omar-s-moreno/)
-**Co-fundador · Ingeniero de Software · Backend Developer**
+**Co-founder · Software Engineer · Backend Developer**
 
-_Experiencia en desarrollo de soluciones tecnológicas, automatización de  procesos, metodologías ágiles, experiencia de usuario y construcción de productos digitales._
+_Experience in building technology solutions, process automation, agile methodologies, user experience, and digital product development._
 
-- **Rol:** Diseño de la arquitectura técnica del MVP (integración de bases de datos, IA, notificaciones y blockchain).
-- **Contribución Clave:** implementación técnica, validación de factibilidad y escalabilidad de la solución.
+- **Role:** Designed the technical architecture of the MVP (database integration, AI, notifications, and blockchain).
+- **Key Contribution:** Led the technical implementation, validated feasibility, and ensured the scalability of the solution.
 
 ### Paulo [![LinkedIn](https://img.icons8.com/color/16/linkedin.png) LinkedIn](https://www.linkedin.com/in/paulino-cartagena-10155362/) 
-**Co-fundador · Ingeniero Civil**
+**Co-founder · Civil Engineer**
 
-_Amplia trayectoria en el sector de construcción y obras públicas.
-Conocimiento profundo de los dolores reales en la gestión de órdenes de servicio y notas._
+_Extensive experience in the construction and public works sector. Deep understanding of real pain points in managing service orders and work notes._
 
-- **Rol:** Aportar la visión del usuario final, validar procesos actuales y proponer mejoras realistas.
-- **Contribución Clave:** garantizar que la solución resuelva problemas concretos del día a día en obras públicas y facilitar la adopción con empresas y municipios.
+- **Role:** Provide end-user perspective, validate current processes, and propose realistic improvements.
+- **Key Contribution:** Ensure the solution solves concrete day-to-day problems in public works and support adoption among companies and municipalities.
 
 ### Analia [![LinkedIn](https://img.icons8.com/color/16/linkedin.png) LinkedIn](https://www.linkedin.com/in/analia-cartagena/)
-**Co-fundadora · Ingeniería de Software · MBA**
+**Co-founder · Software Engineering · MBA**
 
-_Lidera la estrategia de innovación y transformación digital.
-Experiencia en gestión de proyectos, metodologías ágiles, experiencia de usuario, construcción de productos digitales._
+_Leads innovation and digital transformation strategy. Experience in project management, agile methodologies, user experience, and digital product development._
 
-- **Rol:** Asegurar que la solución responda a necesidades reales de usuarios y esté alineada con los objetivos del concurso y de los municipios/constructoras.
-- **Contribución Clave:** coordinación del equipo, diseño de encuestas, análisis de resultados y estrategia de implementación.
+- **Role:** Ensure the solution addresses real user needs and aligns with the goals of the competition and of municipalities/contractors.
+
+- **Key Contribution:** Team coordination, survey design, results analysis, and implementation strategy.
 
 ---
 ### Pitch Video
@@ -78,141 +81,39 @@ TODO!!
 
 ---
 ## Technical Architecture
-
-TODO!!!
-
----
-## Bonus Material
-
-### Demo
-
-### User Feedback
-
-### Bonus Material (to be Included in `README.md`)
-
-- [ ]  Demo video showing prototype/concept (separate from pitch video)
-- [ ]  User feedback or validation evidence (e.g. surveys, results from mini marketing campaign)
-- [ ]  Marketing material or plan (e.g. social media links, online engagement with product)
-
-### 💡 IDEA-TON TECH REQUIREMENTS
-
-- Technical architecture document (detailed plan)
-- Wireframes/mockups showing user flow
-- See: [IDEA-T-ON TECHNICAL PLAN CHECKLIST](https://www.notion.so/IDEA-T-ON-TECHNICAL-PLAN-CHECKLIST-2a43e52aeb1580558beddf44eed73e73?pvs=21)
-
-
-----
-# IDEA-T-ON TECHNICAL PLAN CHECKLIST
-
-## 🏗️ Technical Architecture
-
 ### System Diagram
-
-*[Include ONE clear diagram showing how your components connect. Use Mermaid, Excalidraw, or draw on paper and photo it]*
-
-E.g. mermaid :
-
-`graph LR
-    A[Component 1] --> B[Component 2]
-    B --> C[Component 3]`
+![technical_architecture](./images/architecture.png)
 
 ### Tech Stack
 
 **Frontend:**
+- Framework: Next.js + React
+- Web3: polkadot.js
+- UI: TailwindCSS
 
-- Framework: [e.g., Next.js, React]
-- Web3: [e.g., Polkadot.js, PAPI]
-- UI: [e.g., Tailwind, shadcn]
+**Backend / Contracts**
+- Type: API service 
+- Language: (Node.js / TypeScript)
 
-**Backend/Contracts:**
+**Storage:**
+- S3 (archivos OS/NP)
+- Postgres (metadatos + IDs + texto transcripto + usuarios + obras)
+- On-chain: ID del documento + hash SHA-256 (integridad inmutable)
 
-- Type: [e.g., ink! contract, FRAME pallet, API service]
-- Language: [e.g., Rust, TypeScript]
-- Storage: [e.g., On-chain, IPFS, Arkiv]
+**AI / OCR:**
+- Google Gemini
+- OpenAI API (para fallback)
+- Extracción/normalización de texto para búsquedas rápidas
 
 **Blockchain:**
-
-- Chain: [e.g., Asset Hub, Custom parachain]
-- Tools: [e.g., SubQuery, Chopsticks]
+- Chain: Parachain Paseo Testnet con soporte ink!
+- Tools: 
+  - SubQuery (indexación de eventos registrados en blockchain)
+  - polkadot.js API (interacción backend → parachain)
 
 ### How Data Flows
+![how_data_flows](./images/how_data_flows.png)
 
-*[Simple step-by-step of a user action through your system]*
-
-1. User does X →
-2. Frontend calls Y →
-3. Blockchain processes Z →
-4. User sees result
-
----
-
-## 🎨 Design & User Flow
-
-### Mockups
-
-**Figma/Design Tool or simple wireframes**
-
-- Link: [Figma or Balsamiq share link or if hand drawn share photo]
-- Key screens: [List 3-5 main screens]
-- Files: [Attach images or links]
-
-### Main User Flow
-
-*[Describe the core action step-by-step with 3-5 steps]*
-
-**Example: Minting an NFT**
-
-1. Connect wallet
-2. Upload image + metadata
-3. Set price
-4. Sign transaction
-5. View your listing
-
-*[Include screenshots or sketches for each step]*
-
----
-
-## ⚙️ Implementation Plan
-
-### Hackathon Weekend (Nov 14-16)
-
-*[What you'll build in 72 hours - be realistic]*
-
-- [ ]  [Task 1 - e.g., Deploy smart contract to testnet]
-- [ ]  [Task 2 - e.g., Build basic UI with wallet connection]
-- [ ]  [Task 3 - e.g., Connect frontend to contract]
-- [ ]  [Task 4 - e.g., Record demo video]
-
-**Weekend deliverable:** [e.g., Working prototype on Paseo testnet]
-
-### Milestone 2 - 6 Weeks (Nov 18 - Dec 24)
-
-*[Required for Main Track prize consideration - outline your post-hackathon plan]*
-
-**Weeks 1-2:** [e.g., Add feature X, optimize contract]
-
-**Weeks 3-4:** [e.g., Integrate partner bounty tech, user testing]
-
-**Weeks 5-6:** [e.g., Mainnet deployment prep, documentation]
-
-**M2 Deliverable:** [e.g., Mainnet-ready product with 10 test users]
-
----
-
-## 🔍 Technical Feasibility
-
-**Why this will work:**
-
-- ✅ [e.g., We have Rust/FRAME experience]
-- ✅ [e.g., Libraries exist for core features]
-- ✅ [e.g., Similar projects prove it's possible]
-
-**Biggest challenges:**
-
-1. **[Challenge]** → *Solution: [How you'll handle it]*
-2. **[Challenge]** → *Solution: [How you'll handle it]*
-
-**Key dependencies:**
-
-- [e.g., Asset Hub pallet availability]
-- [e.g., Testnet RPC access]
+## Mockups showing user flow
+**Wireframes/mockups showing user flow** 
+Esta seccion muestra el flujo que sigue el usuario al utilizar la plataforma

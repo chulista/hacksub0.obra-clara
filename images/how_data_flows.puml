@@ -1,0 +1,34 @@
+@startuml
+actor User as U
+participant "Frontend dApp\n(Next.js + React)" as FE
+participant "API Backend\n(Node.js + TS)" as API
+participant "S3 Storage\n(Archivos originales)" as S3
+participant "Postgres\n(Metadatos + OCR)" as DB
+participant "Parachain\n(ink! Smart Contract)" as CHAIN
+participant "SubQuery Indexer" as INDEXER
+
+== 1. El usuario registra una OS/NP ==
+
+U -> FE: Carga foto/PDF de OS o Nota
+FE -> API: Envía archivo + metadatos\n(obra, tipo, fecha)
+
+== 2. Procesamiento Web2 ==
+
+API -> S3: Sube archivo original
+S3 --> API: Retorna S3_URL
+
+API -> API: Ejecuta OCR / IA\n(extrae texto del documento)
+API -> DB: Guarda registro\n(id, obra_id, tipo, fecha, S3_URL, texto, hash)
+
+== 3. Registro en Blockchain ==
+
+API -> CHAIN: register_evidence(id, hash, timestamp)
+CHAIN -> INDEXER: Emite evento EvidenceRegistered
+
+== 4. Sincronización con la UI ==
+
+INDEXER --> API: Entrega evento indexado
+API --> FE: Devuelve estado actualizado\n(on-chain + off-chain)
+FE --> U: Muestra resultado:\n• Documento cargado (S3)\n• Texto indexado (DB)\n• Hash registrado en blockchain
+
+@enduml
