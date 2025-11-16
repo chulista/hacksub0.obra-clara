@@ -69,13 +69,7 @@ TODO!!
     - Include: problem, solution, demo, market context, Milestone 2 overview
     - Upload to any platform (e.g., YouTube, Loom) and share the link
 ---
-TODO!!
 ### [Pitch Deck](https://docs.google.com/presentation/d/1RyJv-ST3eSlvFXZlR7SOaVAwotoWy2GKRQ9r5jj8THw/edit?usp=sharing)
-- [ ]  Pitch deck (URL)
-    - Problem & solution
-    - Market research & competitive analysis
-    - Technical approach
-    - Milestone 2 plan summary
 
 ---
 ## Technical Architecture
