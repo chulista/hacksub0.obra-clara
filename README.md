@@ -17,7 +17,7 @@
 - [Bonus Material](Bonus_Material.md)
 
 ## **Project Overview**
-ObraClara is a digital platform designed to modernize the management of Service Orders (OS) and Request Notes (NP) in public construction projects.
+ObraClara is a digital platform designed to modernize the management of Service Orders (OS) and Request Notes (NP) in public infrastructure projects.
 
 Today, these processes rely on WhatsApp messages, scattered PDFs, and physical logbooks, leading to loss of traceability, legal risks, delays, and low operational transparency.
 
@@ -46,13 +46,13 @@ _Experience in building technology solutions, process automation, agile methodol
 ### Paulo [![LinkedIn](https://img.icons8.com/color/16/linkedin.png) LinkedIn](https://www.linkedin.com/in/paulino-cartagena-10155362/) 
 **Co-founder · Civil Engineer**
 
-_Extensive experience in the construction and public works sector. Deep understanding of real pain points in managing service orders and work notes._
+_Extensive experience in the construction and public infrastructue sector. Deep understanding of real pain points in managing service orders and work notes._
 
 - **Role:** Provide end-user perspective, validate current processes, and propose realistic improvements.
-- **Key Contribution:** Ensure the solution solves concrete day-to-day problems in public works and support adoption among companies and municipalities.
+- **Key Contribution:** Ensure the solution solves concrete day-to-day problems in public infrastructure and support adoption among companies and municipalities.
 
 ### Analia [![LinkedIn](https://img.icons8.com/color/16/linkedin.png) LinkedIn](https://www.linkedin.com/in/analia-cartagena/)
-**Co-founder · Software Engineering · MBA**
+**Co-founder · Software Engineer · MBA**
 
 _Leads innovation and digital transformation strategy. Experience in project management, agile methodologies, user experience, and digital product development._
 
