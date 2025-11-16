@@ -1,7 +1,7 @@
 ## Bonus Material
 
 ### Demo
-![how_data_flows](./images/demo_new_os.gif)
+![how_data_flows](./images/demo.gif)
 
 ### User Feedback
 [Our survey](https://forms.gle/dFsLkgwkfLHNKueSA)
