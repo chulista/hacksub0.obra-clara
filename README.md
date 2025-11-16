@@ -2,7 +2,7 @@
 
 ![logo](./images/logo.png)
 
-## Contenido
+## Table of contents
 - [Project Overview](#project-overview)
 - [Team Members](#team-members)
 - [Pitch Video](https://www.youtube.com/watch?v=1oGsoYutw24)
@@ -14,8 +14,6 @@
   - [How Data Flows](#how-data-flows)
 - [Design And User Flow](#design-and-user-flow)
   - [Mockups](#mockups)
-  - [Main User Flow](#main-user-flow)
-- [Technical Feasibility](#technical-feasibility)
 - [Bonus Material](Bonus_Material.md)
 
 ## **Project Overview**
@@ -114,6 +112,7 @@ TODO!!
 ### How Data Flows
 ![how_data_flows](./images/how_data_flows.png)
 
-## Mockups showing user flow
+## Design And User Flow
+### Mockups
 **Wireframes/mockups showing user flow** 
 Esta seccion muestra el flujo que sigue el usuario al utilizar la plataforma
